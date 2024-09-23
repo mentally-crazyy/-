@@ -1,0 +1,117 @@
+.hello_container{
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  max-width: 800px;
+  margin-top: 60px;
+  margin-left: 350px;
+}
+
+.hello_container2{
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  max-width: 550px;
+  margin-left: 350px;
+}
+
+
+
+
+.container3{
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  max-width: 100px;
+  margin-top: 30px;
+  margin-left: 350px;
+}
+
+.container4{
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  max-width: 100px;
+  margin-top: -134px;
+  margin-left: 580px;
+  margin-right: 400px;
+}
+
+
+.container5{
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  max-width: 1000px;
+  margin-top: 280px;
+  margin-left: 270px;
+}
+
+
+.container6{
+  width: 100%;
+  padding-right: var(--bs-gutter-x, 0.75rem);
+  padding-left: var(--bs-gutter-x, 0.75rem);
+  max-width: 800px;
+  margin-top: 100px;
+  margin-left: 700px;
+}
+
+.orange{
+
+  color: #ff9100;
+}
+
+.big{
+  font-size: 5rem;
+}
+
+
+
+.logo {
+  margin-top: -10px;
+  margin-bottom: -10px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.ye {
+ margin-left:-60px
+}
+
+.bg{
+  background-image: url("front_des1.png");
+  background-size:cover;
+  background-position: 100% 45px;
+}
+
+.orange{
+  color: #ff9d00
+}
+.black{
+color:black
+}
+.fs-3 {
+  font-size: 3rem !important;
+  font-style: verdana;
+  font-weight: bold;
+}
+      .nav-pills .nav-link.active,
+.nav-pills .show > .nav-link {
+color: #fff;
+font-style: verdana;
+background-color: #000000;
+}
+
+      .nav-link {
+display: block;
+font-style: verdana;
+padding: 0.5rem 1rem;
+color: #000000;
+text-decoration: none;
+transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+  border-color 0.15s ease-in-out;
+}
+.font_Arial_black{
+font-style: Arial Bold;
+}
